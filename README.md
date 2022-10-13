@@ -5,12 +5,15 @@
 <div align=center>
 
             
-        
+       
+
+  ![image](https://user-images.githubusercontent.com/59647586/195589804-54ba7912-bed7-43e9-a54d-1175e1f595f8.png)
+  
+  
+  
   ### 📫email📫
 
   lightload2912@gmail.com
-
-  ![image](https://user-images.githubusercontent.com/59647586/195589804-54ba7912-bed7-43e9-a54d-1175e1f595f8.png)
 
 
 
