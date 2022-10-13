@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JUHPARK%20GITHUB&fontSize=90&)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=박주호%20&fontSize=90&)
 
 ### Hi there 👋
 이곳에 내용 입력
