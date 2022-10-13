@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=박주호%20깃허브&fontSize=90&)
 
 # Hi there 👋
-  ![image](https://user-images.githubusercontent.com/59647586/195582108-122125d8-44f9-4aa1-9095-5e93f80d07b1.png)
 
 <div align=center>
 
