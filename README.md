@@ -10,9 +10,9 @@
 
   lightload2912@gmail.com
 
+  ![image](https://user-images.githubusercontent.com/59647586/195589804-54ba7912-bed7-43e9-a54d-1175e1f595f8.png)
 
 
-  ### 🔭notion🔭  
 
 
  <a href="https://www.notion.so/e364e854a70240e1b57fd99febc8189c" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=#000000"/></a>
