@@ -15,7 +15,7 @@
   ### 🔭notion🔭  
 
 
- <a href="https://www.notion.so/e364e854a70240e1b57fd99febc8189c" target="_blank"><img src="https://img.shields.io/badge/notion?style=for-the-badge&logo=notion&logoColor=#000000"/></a>
+ <a href="https://www.notion.so/e364e854a70240e1b57fd99febc8189c" target="_blank"><img src="https://img.shields.io/badge/notion?style=for-the-badge&logo=notion&logoColor=000000"/></a>
 
 
 
